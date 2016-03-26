@@ -34,3 +34,8 @@
 ![](https://github.com/lfb-cd/downloadQueue/blob/master/code/downloadFile-2.png)
 ![](https://github.com/lfb-cd/downloadQueue/blob/master/code/downloadFile-3.png)
 ![](https://github.com/lfb-cd/downloadQueue/blob/master/code/downloadFile-4.png)
+
+###上传做法是类似的
+
+不过需要做到断点上传的话，就有点不同了。
+我的做法是 把每个上传操作封装成 `NSBlockOperation` 添加到 `NSOperationQueue` 上传队列中，界面更新也是使用 `Block`做监听
