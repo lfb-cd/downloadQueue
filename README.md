@@ -12,4 +12,5 @@
 ##[核心代码](https://github.com/lfb-cd/downloadQueue/blob/master/code/article.md)
 
 代码不能完全开源，关键代码供学习讨论
-欢迎Star 没准儿哪天就开源了 ^_^
+
+欢迎 **Star** 没准儿哪天就开源了 ^_^
