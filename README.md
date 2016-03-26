@@ -8,6 +8,4 @@
 ![](https://github.com/lfb-cd/downloadQueue/blob/master/downloadQueue.gif)
 
 ###代码不能完全开源，关键代码供学习讨论
-##核心代码
-
-![](https://github.com/lfb-cd/downloadQueue/edit/master/code/article.md)
+##[核心代码](https://github.com/lfb-cd/downloadQueue/edit/master/code/article.md)
