@@ -2,7 +2,7 @@
 
 `NSOperationQueue` + `ASIHTTPRequest` 实现的文件下载
 
-[简书同步地址：](http://www.jianshu.com/p/05bde6766e90)
+同步发布到[我的简书](http://www.jianshu.com/p/05bde6766e90)
 
 ##主要思路
 
